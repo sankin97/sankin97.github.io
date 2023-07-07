@@ -1,0 +1,22 @@
+# main links links
+main:
+  # - title: "About Me"
+  #   url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-recent-publications-google-scholar"
+
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Acadamic Services"
+    url: "/#-acadamic-services"
+
+  - title: "Internships"
+    url: "/#-internships"
