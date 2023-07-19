@@ -66,7 +66,7 @@ Tao Ma, Xuemeng Yang, Hongbin Zhou, **Xin Li**, Botian Shi, Junjie Liu, Yuchen Y
 
 **UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**
 
-Youquan Liu, Runnan Chen,  **Xin Li**, Lingdong Kong,  uchen Yang, Zhaoyang Xia, Yeqi Bai,Xinge Zhu, Yikang Li, Yuenan Hou, Yu Qiao
+Youquan Liu, Runnan Chen,  **Xin Li**, Lingdong Kong,  Yuchen Yang, Zhaoyang Xia, Yeqi Bai,Xinge Zhu, Yikang Li, Yuenan Hou, Yu Qiao
 
 [International Conference on Computer Vision (ICCV), 2023](https://iccv2023.thecvf.com/)
 
