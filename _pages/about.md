@@ -21,10 +21,11 @@ I am a fourth-year Ph.D. student in the School of [Computer Science and Technolo
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn).
 
-**<font color=red> I will be on the job market in the summer of 2024. Please feel free to drop me an <a href="mailto: sankin0528@gmail.com">email</a> if you have any interests.</font>**
+**<font color=red> I will be on the job market in the summer of 2024. Here is my <a href='works/cv_en.pdf'>CV</a>. Please feel free to drop me an <a href="mailto: sankin0528@gmail.com">email</a> if you have any interests.</font>**
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
+- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3d, DetZero and Uniseg) are accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉 Our offline-method DetZero ranked 1st on 85.15 mAPH (L2) on Waymo 3D detection leaderboard.
 - *2023.02*: &nbsp;🎉🎉 Two papers (LoGoNet and SCPNet) are accepted by CVPR 2023.
 - *2022.10*: &nbsp;🎉 Our LoGoNet ranked 1st on Waymo 3D detection leaderboard. 
@@ -32,6 +33,47 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 
 # 📝 Recent Publications [\[Google Scholar\]](https://scholar.google.com/citations?user=7atts2cAAAAJ&hl=zh-CN) 
 \* *indicates equal contribution*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper/robo3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robo3d: Towards robust and reliable 3d perception against corruptions**
+
+Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei Ren, Liang Pan, Kai Chen, Ziwei Liu
+
+[International Conference on Computer Vision (ICCV), 2023](https://iccv2023.thecvf.com/)
+
+[**PDF**](https://arxiv.org/abs/2303.17597) | [**Code**](https://github.com/ldkong1205/Robo3D) | [**Home**](https://ldkong.com/Robo3D) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper/detzero.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**
+
+Tao Ma, Xuemeng Yang, Hongbin Zhou, **Xin Li**, Botian Shi, Junjie Liu, Yuchen Yang, Zhizheng Liu, Liang He, Yu Qiao, Yikang Li, Hongsheng Li
+
+[International Conference on Computer Vision (ICCV), 2023](https://iccv2023.thecvf.com/)
+
+[**PDF**](https://arxiv.org/abs/2306.06023) | [**Code**](https://github.com/PJLab-ADG/DetZero) 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper/uniseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**
+
+Youquan Liu, Runnan Chen,  **Xin Li**, Lingdong Kong,  uchen Yang, Zhaoyang Xia, Yeqi Bai,Xinge Zhu, Yikang Li, Yuenan Hou, Yu Qiao
+
+[International Conference on Computer Vision (ICCV), 2023](https://iccv2023.thecvf.com/)
+
+[**PDF**](https://sankin97.github.io/) | [**Code**](https://github.com/PJLab-ADG/PCSeg) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/paper/logonet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,27 +128,7 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/paper/detzero.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**
-
-Tao Ma, Xuemeng Yang, Hongbin Zhou, **Xin Li**, Botian Shi, Junjie Liu, Yuchen Yang, Zhizheng Liu, Liang He, Yu Qiao, Yikang Li, Hongsheng Li
-
-[**PDF**](https://arxiv.org/abs/2306.06023) | [**Code**](https://github.com/PJLab-ADG/DetZero) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/paper/robo3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robo3d: Towards robust and reliable 3d perception against corruptions**
-
-Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei Ren, Liang Pan, Kai Chen, Ziwei Liu
-
-[**PDF**](https://arxiv.org/abs/2303.17597) | [**Code**](https://github.com/ldkong1205/Robo3D) | [**Home**](https://ldkong.com/Robo3D) 
-</div>
-</div>
 
 # 📖 Educations
 - *2019.09 - now*, East China Normal University, Computer Science and technology. 
@@ -118,7 +140,8 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
   - IEEE/CVF International Conference on Computer Vision (ICCV)
   - European Conference on Computer Vision (ECCV)
   - Conference on Neural Information Processing Systems (NeurIPS)
+  - Association for the Advancement of Artificial Intelligence (AAAI)
 
 # 💻 Internships
 - *2021.06 - Present*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
-  - Mentor: Botian Shi
+  - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
