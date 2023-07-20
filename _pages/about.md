@@ -25,7 +25,7 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
-- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3D, DetZero and Uniseg) are accepted by ICCV 2023.
+- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3D, DetZero and UniSeg) are accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉 Our offline-method DetZero ranked 1st on 85.15 mAPH (L2) on Waymo 3D detection leaderboard.
 - *2023.02*: &nbsp;🎉🎉 Two papers (LoGoNet and SCPNet) are accepted by CVPR 2023.
 - *2022.10*: &nbsp;🎉 Our LoGoNet ranked 1st on Waymo 3D detection leaderboard. 
