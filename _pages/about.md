@@ -25,7 +25,7 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
-- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3d, DetZero and Uniseg) are accepted by ICCV 2023.
+- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3D, DetZero and Uniseg) are accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉 Our offline-method DetZero ranked 1st on 85.15 mAPH (L2) on Waymo 3D detection leaderboard.
 - *2023.02*: &nbsp;🎉🎉 Two papers (LoGoNet and SCPNet) are accepted by CVPR 2023.
 - *2022.10*: &nbsp;🎉 Our LoGoNet ranked 1st on Waymo 3D detection leaderboard. 
@@ -36,7 +36,7 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper/robo3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robo3d: Towards robust and reliable 3d perception against corruptions**
+**Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**
 
 Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei Ren, Liang Pan, Kai Chen, Ziwei Liu
 
