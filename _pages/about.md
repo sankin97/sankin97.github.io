@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a fourth-year Ph.D. student in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), supervised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D perception in autonomous driving, which mainly includes multi-sensor fusion, 3D object detection. 
+I am a fifth-year Ph.D. student in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), supervised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D perception in autonomous driving, which mainly includes multi-sensor fusion, 3D object detection. 
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn).
 
@@ -145,3 +145,4 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 # 💻 Internships
 - *2021.06 - Present*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
   - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
+
