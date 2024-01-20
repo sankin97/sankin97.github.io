@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xin Li (李鑫)"
-  avatar           : "images/lixin.jpg"
+  avatar           : "images/lixin.png"
   bio              : "PhD Student at East China Normal University & Reaserch Intern at Shanghai AI Lab"
   location         : "Shanghai"
   employer         :

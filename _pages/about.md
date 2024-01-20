@@ -17,22 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a fifth-year Ph.D. student in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), supervised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D perception in autonomous driving, which mainly includes multi-sensor fusion, 3D object detection. 
+I am a fifth-year Ph.D. student in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), supervised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D perception in autonomous driving, knowledge-driven autonomous driving, embodied AI, which mainly includes multi-sensor fusion, 3D object detection, decision making. 
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn).
 
-**<font color=red> I will be on the job market in the summer of 2024. Here is my <a href='works/cv_en.pdf'>CV</a>. Please feel free to drop me an <a href="mailto: sankin0528@gmail.com">email</a> if you have any interests.</font>**
+**<font color=red> Here is my <a href='works/cv_en.pdf'>CV</a>. Please feel free to drop me an <a href="mailto: sankin0528@gmail.com">email</a> if you have any interests.</font>**
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
-- *2023.07*: &nbsp;🔥🔥🔥 Three papers (Robo3D, DetZero and UniSeg) are accepted by ICCV 2023.
+- *2024.01*: &nbsp;🔥🔥🔥 One paper (DiLu) is accepted by ICLR 2024.
+- *2023.07*: &nbsp;🎉🎉🎉 Three papers (Robo3D, DetZero and UniSeg) are accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉 Our offline-method DetZero ranked 1st on 85.15 mAPH (L2) on Waymo 3D detection leaderboard.
 - *2023.02*: &nbsp;🎉🎉 Two papers (LoGoNet and SCPNet) are accepted by CVPR 2023.
 - *2022.10*: &nbsp;🎉 Our LoGoNet ranked 1st on Waymo 3D detection leaderboard. 
-- *2022.02*: &nbsp;🎉 One papers (HMFI) are accepted by ECCV 2022. 
+- *2022.02*: &nbsp;🎉 One paper (HMFI) is accepted by ECCV 2022. 
 
 # 📝 Recent Publications [\[Google Scholar\]](https://scholar.google.com/citations?user=7atts2cAAAAJ&hl=zh-CN) 
 \* *indicates equal contribution*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper/dilu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**
+
+Licheng Wen\*, Daocheng Fu\*, **Xin Li\***, Xinyu Cai, Tao Ma, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao
+
+[International Conference on Learning Representations (ICLR), 2024](https://iclr.cc/)
+
+[**PDF**](https://arxiv.org/abs/2309.16292) | [**Code**](https://github.com/PJLab-ADG/DiLu) | [**Home**](https://pjlab-adg.github.io/DiLu) 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper/robo3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -146,5 +161,4 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 - *2021.06 - Present*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
   - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
 
-
-© Last Updated: Sep. 2023
+© Last Updated: Jan. 2024
