@@ -174,7 +174,7 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 
 
 # 📖 Educations
-- *2019.09 - 2024.06, East China Normal University, Computer Science and technology. 
+- *2019.09 - 2024.06*, East China Normal University, Computer Science and technology. 
 - *2015.09 - 2019.06*, China University of Petroleum (East China), Computer Science and technology. 
 
 # 💬 Acadamic Services
@@ -186,7 +186,7 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
   - Association for the Advancement of Artificial Intelligence (AAAI)
 
 # 💻 Internships
-- *2021.06 - 2024.06, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
+- *2021.06 - 2024.06*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
   - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
 
 © Last Updated: Oct. 2024
