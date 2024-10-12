@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a fifth-year Ph.D. student in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), supervised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D perception in autonomous driving, knowledge-driven autonomous driving, embodied AI, which mainly includes multi-sensor fusion, 3D object detection, decision making. 
+I am currently a postdoctoral researcher at the Shanghai Jiao Tong University, working with Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ). I received Ph.D. degree in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), advised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D Vision, Autonomous Driving, Embodied AI.
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn).
 
@@ -25,7 +25,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
-- *2024.01*: &nbsp;🔥🔥🔥 One paper (DiLu) is accepted by ICLR 2024.
+- *2024.09*: &nbsp;🔥🔥🔥 One paper (LeapAD) is accepted by NeurIPS 2024.
+- *2024.02*: &nbsp;🎉 One paper (M3Net) is accepted by CVPR 2024.
+- *2024.01*: &nbsp;🎉  One paper (DiLu) is accepted by ICLR 2024.
 - *2023.07*: &nbsp;🎉🎉🎉 Three papers (Robo3D, DetZero and UniSeg) are accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉 Our offline-method DetZero ranked 1st on 85.15 mAPH (L2) on Waymo 3D detection leaderboard.
 - *2023.02*: &nbsp;🎉🎉 Two papers (LoGoNet and SCPNet) are accepted by CVPR 2023.
@@ -34,6 +36,32 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 
 # 📝 Recent Publications [\[Google Scholar\]](https://scholar.google.com/citations?user=7atts2cAAAAJ&hl=zh-CN) 
 \* *indicates equal contribution*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper/leapad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**
+
+Jianbiao Mei Yukai Ma, Xuemeng Yang, Licheng Wen, Xinyu Cai, **Xin Li**, Daocheng Fu, Bo Zhang, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yong Liu1, Yu Qiao
+
+[Neural Information Processing Systems (NeurIPS), 2024](https://neurips.cc/)
+
+[**PDF**](https://arxiv.org/abs/2405.15324) | [**Code**](https://github.com/PJLab-ADG/LeapAD) ｜ [**Home**](https://leapad-2024.github.io/LeapAD/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper/m3net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Space Alignments Towards Universal LiDAR Segmentation**
+
+Youquan Liu, Lingdong Kong, Xiaoyang Wu, Runnan Chen, **Xin Li**, Liang Pan, Ziwei Liu, Yuexin Ma  
+
+[Computer Vision and Pattern Recognition (CVPR), 2024](https://cvpr.thecvf.com/Conferences/2024)
+
+[**PDF**](https://arxiv.org/pdf/2405.01538) | [**Code**](https://github.com/youquanl/M3Net)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper/dilu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -146,7 +174,7 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 
 
 # 📖 Educations
-- *2019.09 - now*, East China Normal University, Computer Science and technology. 
+- *2019.09 - 2024.06, East China Normal University, Computer Science and technology. 
 - *2015.09 - 2019.06*, China University of Petroleum (East China), Computer Science and technology. 
 
 # 💬 Acadamic Services
@@ -158,7 +186,7 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
   - Association for the Advancement of Artificial Intelligence (AAAI)
 
 # 💻 Internships
-- *2021.06 - Present*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
+- *2021.06 - 2024.06, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
   - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
 
-© Last Updated: Jan. 2024
+© Last Updated: Oct. 2024
