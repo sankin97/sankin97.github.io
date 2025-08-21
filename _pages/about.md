@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am currently a postdoctoral researcher at the Shanghai Jiao Tong University, working with Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ). I received Ph.D. degree in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), advised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on 3D Vision, Autonomous Driving, Embodied AI.
+I am currently a researcher at the Shanghai Artificial Intelligence Laboratory. Previously, I was a postdoctoral researcher at the Shanghai Jiao Tong University, where collaborated with [Prof. Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ). I received Ph.D. degree in the School of [Computer Science and Technology, East China Normal University](http://www.cs.ecnu.edu.cn/), advised by Prof. [Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). My research focuses on AI Agent, 3D Vision, Embodied AI.
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn).
 
@@ -25,7 +25,10 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <!-- Here is my <a href="works/lixin_cv.pdf">CV</a> -->
 
 # 🔥 News
-- *2024.09*: &nbsp;🔥🔥🔥 One paper (LeapAD) is accepted by NeurIPS 2024.
+- *2025.06*: &nbsp;🎉 One paper (DriveArena) is accepted by ICCV 2025.
+- *2025.06*: &nbsp;🎉 One paper (SKT) is accepted by IROS 2025.
+- *2025.01*: &nbsp;🎉 One paper (UniAff) is accepted by ICRA 2025.
+- *2024.09*: &nbsp;🎉 One paper (LeapAD) is accepted by NeurIPS 2024.
 - *2024.02*: &nbsp;🎉 One paper (M3Net) is accepted by CVPR 2024.
 - *2024.01*: &nbsp;🎉  One paper (DiLu) is accepted by ICLR 2024.
 - *2023.07*: &nbsp;🎉🎉🎉 Three papers (Robo3D, DetZero and UniSeg) are accepted by ICCV 2023.
@@ -189,4 +192,4 @@ Lingdong Kong\*, Youquan Liu\*, **Xin Li\***, Runnan Chen, Wenwei Zhang, Jiawei 
 - *2021.06 - 2024.06*, [Shanghai AI Lab](https://www.shlab.org.cn), Shanghai.
   - Mentor: [Botian Shi](https://scholar.google.com.hk/citations?user=K0PpvLkAAAAJ)
 
-© Last Updated: Oct. 2024
+© Last Updated: Aug. 2025
